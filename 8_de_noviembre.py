@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1RCDecV6w1eYT3yD74obzhY_ZOqhf6QYY
 """
 
-import streamlist as st
+import streamlit as st
 
 st.title("Mi Primera Aplicación en streamlit")
 st.header("Este es un encabezado")
